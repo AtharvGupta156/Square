@@ -1,0 +1,28 @@
+.heading {
+    font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px grey;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: black ;
+    background-color: aqua;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;  /* Line height will increase the height of the div */
+    text-align: center;
+    margin-top: 50px;
+}
+
+canvas {
+    border: 5px solid;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px grey;
+}
